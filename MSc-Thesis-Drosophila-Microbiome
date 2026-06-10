@@ -1,0 +1,50 @@
+# Metagenomic Analysis and Functional Inference of Gut Microbiota in Drosophila melanogaster
+
+## Project Overview
+
+This project was conducted as part of my M.Sc. Genetics thesis.
+
+The objective was to analyze publicly available whole genome sequencing (WGS) datasets to characterize the gut-associated microbiota of Drosophila melanogaster and identify dominant microbial metabolic pathways.
+
+## Tools Used
+
+- Linux
+- FASTQC
+- KneadData
+- Kraken2
+- HUMAnN
+- Galaxy
+
+## Workflow
+
+Raw WGS Data
+↓
+FASTQC
+↓
+KneadData
+↓
+Kraken2
+↓
+HUMAnN
+↓
+Taxonomic and Functional Analysis
+
+## Key Activities
+
+- Quality assessment of sequencing reads
+- Host read decontamination
+- Taxonomic classification
+- Functional pathway profiling
+- Biological interpretation of microbiome data
+
+## Skills Demonstrated
+
+- Computational Metagenomics
+- Linux Command Line
+- Bioinformatics Workflow Management
+- Data Interpretation
+- Scientific Documentation
+
+## Status
+
+Completed as part of M.Sc. Genetics Thesis (2026)
